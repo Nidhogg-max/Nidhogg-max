@@ -65,12 +65,12 @@
         <sub>数据分析与可视化</sub>
       </td>
       <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.25.0/icons/solidworks.svg" width="80" alt="SolidWorks"><br>
+        <img src="./icons/solidworks.svg" width="80" alt="SolidWorks"><br>
         <span style="font-size:1.15em; font-weight:bold;">SolidWorks</span><br>
         <sub>简单机械结构设计</sub>
       </td>
       <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@9.25.0/icons/gazebo.svg" width="80" alt="Gazebo"><br>
+        <img src="./icons/gazebo.svg" width="80" alt="Gazebo"><br>
         <span style="font-size:1.15em; font-weight:bold;">Gazebo</span><br>
         <sub>建模仿真 · 算法验证 · 系统测试</sub>
       </td>
