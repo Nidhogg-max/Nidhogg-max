@@ -40,27 +40,39 @@
 ### 🛠️ 技术栈
 
 <div align="center">
-  <table>
+  <table cellspacing="20" cellpadding="10">
     <tr>
-      <td align="center" width="160">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" alt="C"><br>
-        <b>C</b><br>
+      <td align="center" width="170">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" alt="C"><br>
+        <span style="font-size:1.15em; font-weight:bold;">C</span><br>
         <sub>嵌入式系统</sub>
       </td>
-      <td align="center" width="160">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" alt="C++"><br>
-        <b>C++</b><br>
+      <td align="center" width="170">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" alt="C++"><br>
+        <span style="font-size:1.15em; font-weight:bold;">C++</span><br>
         <sub>SLAM · ROS2 · 高性能算法</sub>
       </td>
-      <td align="center" width="160">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"><br>
-        <b>Python</b><br>
+      <td align="center" width="170">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python"><br>
+        <span style="font-size:1.15em; font-weight:bold;">Python</span><br>
         <sub>深度学习 · 数据处理</sub>
       </td>
-      <td align="center" width="160">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="70" alt="MATLAB"><br>
-        <b>MATLAB</b><br>
-        <sub>机器人建模 · 控制仿真 · 数据可视化</sub>
+    </tr>
+    <tr>
+      <td align="center" width="170">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="80" alt="MATLAB"><br>
+        <span style="font-size:1.15em; font-weight:bold;">MATLAB</span><br>
+        <sub>数据分析与可视化</sub>
+      </td>
+      <td align="center" width="170">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-plain.svg" width="80" alt="SolidWorks"><br>
+        <span style="font-size:1.15em; font-weight:bold;">SolidWorks</span><br>
+        <sub>简单机械结构设计</sub>
+      </td>
+      <td align="center" width="170">
+        <img src="https://raw.githubusercontent.com/gazebosim/gz-sim/main/logo.svg" width="80" alt="Gazebo"><br>
+        <span style="font-size:1.15em; font-weight:bold;">Gazebo</span><br>
+        <sub>建模仿真 · 算法验证 · 系统测试</sub>
       </td>
     </tr>
   </table>
