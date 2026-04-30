@@ -40,42 +40,16 @@
 ### 🛠️ 技术栈
 
 <div align="center">
-  <table cellspacing="20" cellpadding="10">
-    <tr>
-      <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" alt="C"><br>
-        <span style="font-size:1.15em; font-weight:bold;">C</span><br>
-        <sub>嵌入式系统</sub>
-      </td>
-      <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" alt="C++"><br>
-        <span style="font-size:1.15em; font-weight:bold;">C++</span><br>
-        <sub>SLAM · ROS2 · 高性能算法</sub>
-      </td>
-      <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python"><br>
-        <span style="font-size:1.15em; font-weight:bold;">Python</span><br>
-        <sub>深度学习 · 数据处理</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="80" alt="MATLAB"><br>
-        <span style="font-size:1.15em; font-weight:bold;">MATLAB</span><br>
-        <sub>数据分析与可视化</sub>
-      </td>
-      <td align="center" width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-plain.svg" width="80" alt="SolidWorks"><br>
-        <span style="font-size:1.15em; font-weight:bold;">SolidWorks</span><br>
-        <sub>简单机械结构设计</sub>
-      </td>
-      <td align="center" width="170">
-        <img src="https://raw.githubusercontent.com/gazebosim/gz-sim/main/logo.svg" width="80" alt="Gazebo"><br>
-        <span style="font-size:1.15em; font-weight:bold;">Gazebo</span><br>
-        <sub>建模仿真 · 算法验证 · 系统测试</sub>
-      </td>
-    </tr>
-  </table>
+
+| 编程语言 & 工具 | 主要应用方向 |
+| :---: | :---: |
+| <img src="https://img.shields.io/badge/C-嵌入式系统-00599C?style=for-the-badge&logo=c&logoColor=white" width="200"/> | 嵌入式系统 |
+| <img src="https://img.shields.io/badge/C++-SLAM_·_ROS2_·_高性能算法-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="200"/> | SLAM · ROS2 · 高性能算法 |
+| <img src="https://img.shields.io/badge/Python-深度学习_·_数据处理-3776AB?style=for-the-badge&logo=python&logoColor=white" width="200"/> | 深度学习 · 数据处理 |
+| <img src="https://img.shields.io/badge/MATLAB-数据分析与可视化-0076A8?style=for-the-badge&logo=matlab&logoColor=white" width="200"/> | 数据分析与可视化 |
+| <img src="https://img.shields.io/badge/SolidWorks-简单机械结构设计-FA1616?style=for-the-badge&logo=dassaultsystemes&logoColor=white" width="200"/> | 简单机械结构设计 |
+| <img src="https://img.shields.io/badge/Gazebo-建模仿真_·_算法验证_·_系统测试-57B1AC?style=for-the-badge&logo=gazebo&logoColor=white" width="200"/> | 建模仿真 · 算法验证 · 系统测试 |
+
 </div>
 
 ---
